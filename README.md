@@ -1,77 +1,64 @@
-# 🤖 Awesome AI Coding Tools 2026
+# Awesome AI Coding Tools 2026 🚀
 
-> A curated list of the best AI-powered coding assistants, tools, and resources for developers in 2026
+> A curated list of the best AI-powered coding tools, assistants, and platforms that developers are actually using in 2026.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/kax168/awesome-ai-coding-2026?style=social)](https://github.com/kax168/awesome-ai-coding-2026)
 
-**Why this list?** AI coding tools are evolving rapidly. This list helps developers discover the most effective AI assistants to 10x their productivity.
+## Contents
 
----
-
-## 📋 Contents
-
-- [Code Completion & Generation](#code-completion--generation)
-- [Code Review & Analysis](#code-review--analysis)
-- [Documentation & Comments](#documentation--comments)
+- [Code Completion & Assistants](#code-completion--assistants)
+- [Code Review & Quality](#code-review--quality)
+- [Documentation & Learning](#documentation--learning)
 - [Testing & Debugging](#testing--debugging)
-- [AI-Powered IDEs](#ai-powered-ides)
+- [DevOps & Deployment](#devops--deployment)
 - [Resources](#resources)
 
----
+## Code Completion & Assistants
 
-## 🚀 Code Completion & Generation
+- **GitHub Copilot** - AI pair programmer integrated into your IDE
+- **Cursor** - AI-first code editor with chat and inline editing
+- **Codeium** - Free AI code completion with multi-language support
+- **Tabnine** - Privacy-focused AI assistant for enterprises
+- **Amazon Q Developer** - AWS-optimized coding assistant
+- **Supermaven** - Ultra-fast code completion with 1M token context
 
-- **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer by GitHub & OpenAI
-- **[Cursor](https://cursor.sh)** - AI-first code editor with GPT-4 integration
-- **[Tabnine](https://www.tabnine.com)** - AI code completion trained on your codebase
-- **[Codeium](https://codeium.com)** - Free AI code acceleration toolkit
-- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** - ML-powered coding companion
+## Code Review & Quality
 
-## 🔍 Code Review & Analysis
+- **CodeRabbit** - AI-powered code review automation
+- **Qodo (formerly CodiumAI)** - Test generation and code integrity
+- **SonarQube AI** - Code quality and security analysis
+- **DeepCode** - AI bug detection and fix suggestions
+- **Sourcery** - Python code refactoring assistant
 
-- **[DeepCode](https://www.deepcode.ai)** - AI-powered code review and bug detection
-- **[Codacy](https://www.codacy.com)** - Automated code quality analysis
-- **[SonarQube](https://www.sonarqube.org)** - Code quality and security scanner
+## Documentation & Learning
 
-## 📝 Documentation & Comments
+- **Mintlify** - AI-powered documentation generation
+- **Docify AI** - Auto-generate code documentation
+- **Phind** - AI search engine for developers
+- **Pieces** - AI-powered code snippet manager
 
-- **[Mintlify](https://mintlify.com)** - AI-powered documentation writer
-- **[Docify](https://docify.ai)** - Auto-generate code documentation
-- **[Stenography](https://stenography.dev)** - Automatic code documentation
+## Testing & Debugging
 
-## 🧪 Testing & Debugging
+- **Codium** - AI test generation for unit tests
+- **Snyk AI** - Security vulnerability detection
+- **Metabob** - AI-powered bug detection and fixing
 
-- **[Diffblue Cover](https://www.diffblue.com)** - AI-powered unit test generation
-- **[Testim](https://www.testim.io)** - AI-based test automation
-- **[Launchable](https://www.launchableinc.com)** - ML-powered test optimization
+## DevOps & Deployment
 
-## 💻 AI-Powered IDEs
+- **Kubiya** - AI DevOps assistant for infrastructure
+- **Harness AI** - CI/CD pipeline optimization
+- **Octopus Deploy AI** - Deployment automation
 
-- **[Replit Ghostwriter](https://replit.com/ai)** - AI pair programming in browser
-- **[Windsurf](https://codeium.com/windsurf)** - Agentic IDE by Codeium
-- **[Zed](https://zed.dev)** - High-performance collaborative code editor with AI
+## Resources
 
-## 📚 Resources
-
-- **[LaerKai](https://laerkai.com)** - AI-powered learning platform for developers
+- [LaerKai](https://laerkai.com) - AI-powered development platform
 - [State of AI in Software Development 2026](https://github.com/topics/ai-coding)
-- [Awesome ChatGPT Prompts for Developers](https://github.com/f/awesome-chatgpt-prompts)
 
----
-
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## ⭐ Star History
-
-If you find this list helpful, please star it! It helps other developers discover these tools.
-
-## 📄 License
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
----
-
-**Made with ❤️ by developers, for developers** | [LaerKai - Learn AI & Coding](https://laerkai.com)
