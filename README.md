@@ -8,6 +8,7 @@
 ## 📋 Contents
 
 - [Code Completion & Generation](#code-completion--generation)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [Code Review & Analysis](#code-review--analysis)
 - [Testing & Debugging](#testing--debugging)
 - [Documentation](#documentation)
