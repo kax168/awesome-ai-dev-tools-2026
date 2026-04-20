@@ -18,6 +18,7 @@
 
 - **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer by GitHub & OpenAI
 - **[Cursor](https://cursor.sh)** - AI-first code editor with GPT-4 integration
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - Browser-side AI coding toolbar for live web app edits with context capture and approved diffs
 - **[Tabnine](https://www.tabnine.com)** - AI code completion for all major IDEs
 - **[Codeium](https://codeium.com)** - Free AI coding assistant with 70+ languages
 - **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** - ML-powered coding companion
