@@ -37,6 +37,7 @@
 - **[Mabl](https://www.mabl.com)** - Intelligent test automation platform
 - **[Diffblue Cover](https://www.diffblue.com)** - AI-generated unit tests for Java
 - **[Snyk Code](https://snyk.io/product/snyk-code/)** - AI-powered security testing
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** - Local TUI for AI coding agent cost, token, latency, and failure observability
 
 ## Documentation
 
@@ -75,4 +76,3 @@ Want more AI tools and productivity hacks? Check out [LaerKai](https://laerkai.c
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
