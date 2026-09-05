@@ -33,6 +33,7 @@
 
 ## Testing & Debugging
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** - Source-available web, Android and iOS testing with natural-language scenarios
 - **[Testim](https://www.testim.io)** - AI-powered test automation
 - **[Mabl](https://www.mabl.com)** - Intelligent test automation platform
 - **[Diffblue Cover](https://www.diffblue.com)** - AI-generated unit tests for Java
